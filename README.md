@@ -1,6 +1,7 @@
 # The-Badger
 
 //Produces random answers for questions
+//from Stack Overflow
 
 using System;
 namespace StringApplication
